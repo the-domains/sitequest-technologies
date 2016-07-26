@@ -12,3 +12,7 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
 name: SiteQuest Technologies
+navigation:
+  - id: ba960d3b-390b-42b3-aee5-645e87d3e0d7
+    name: About
+    type: content
